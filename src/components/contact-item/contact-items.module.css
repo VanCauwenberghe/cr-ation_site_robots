@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    padding: 4rem;
+    border: 1px solid black;
+    text-align: center;
+}
+
+avatar {
+    display: flex;
+}
+
+img {
+    margin-top: 3px;
+    width: 3rem;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.info {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.label {
+
+}
+
+.rating {
+
+}
+
